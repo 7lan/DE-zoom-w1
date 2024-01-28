@@ -1,0 +1,10 @@
+ny_taxi_data/
+keys/
+.ipynb_checkpoints/
+main.tf
+variables.tf
+green_taxi_trips.csv.gz
+taxi_zones.csv
+docker-compose.yaml
+ingest_taxi_data.ipynb
+.DS_Store
